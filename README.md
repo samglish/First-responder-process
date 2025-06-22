@@ -37,3 +37,9 @@ A **First Responder** is the first individual (IT staff, law enforcement, or ana
 - Assist investigators with contextual or system-specific information.
 
 ---
+
+## Best Practices
+- Work only on forensic copies.
+- Avoid interacting with live systems unless trained.
+- Follow legal and organizational protocols.
+- Keep calm and act methodically.
