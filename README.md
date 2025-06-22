@@ -15,3 +15,8 @@ A **First Responder** is the first individual (IT staff, law enforcement, or ana
 - Disconnect affected systems from the network **without powering them off**.
 - Prevent further access by users or malware.
 - Ensure volatile data is preserved if possible.
+
+### 3. Documentation
+- Log **time, date, and actions** taken from the moment of arrival.
+- Record the physical setup, visible screen contents, cable connections, etc.
+- Photograph the scene if necessary.
