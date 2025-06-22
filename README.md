@@ -10,3 +10,8 @@ A **First Responder** is the first individual (IT staff, law enforcement, or ana
 - Recognize the occurrence of a digital incident (intrusion, data theft, malware).
 - Classify the nature and severity of the incident.
 - Alert the appropriate incident response team if needed.
+
+### 2. Isolation
+- Disconnect affected systems from the network **without powering them off**.
+- Prevent further access by users or malware.
+- Ensure volatile data is preserved if possible.
