@@ -25,3 +25,8 @@ A **First Responder** is the first individual (IT staff, law enforcement, or ana
 - Avoid any action that could modify the original data.
 - Create forensic images using write blockers.
 - Use hash values (e.g., SHA-256) to verify integrity.
+
+### 5. Chain of Custody
+- Label all evidence with timestamps, handler info, and purpose.
+- Secure evidence physically and digitally.
+- Maintain a detailed custody log from collection to court presentation.
