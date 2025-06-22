@@ -16,6 +16,11 @@ A **First Responder** is the first individual (IT staff, law enforcement, or ana
 - Prevent further access by users or malware.
 - Ensure volatile data is preserved if possible.
 
+### 4. Evidence Preservation
+- Avoid any action that could modify the original data.
+- Create forensic images using write blockers.
+- Use hash values (e.g., SHA-256) to verify integrity.
+
 ### 3. Documentation
 - Log **time, date, and actions** taken from the moment of arrival.
 - Record the physical setup, visible screen contents, cable connections, etc.
