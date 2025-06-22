@@ -30,3 +30,10 @@ A **First Responder** is the first individual (IT staff, law enforcement, or ana
 - Label all evidence with timestamps, handler info, and purpose.
 - Secure evidence physically and digitally.
 - Maintain a detailed custody log from collection to court presentation.
+
+### 6. Handoff
+- Transfer all data and documentation to the **digital forensics team**.
+- Provide a summary report of actions taken during first response.
+- Assist investigators with contextual or system-specific information.
+
+---
